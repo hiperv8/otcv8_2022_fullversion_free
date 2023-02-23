@@ -1,3 +1,16 @@
+# WHY AM I AVAILABLE FOR FREE?
+A while ago, a person called me on discord promising me access to the otcv8 github for a lower amount than what is on the site... the person who offered me sent me photos and showed me by video call that he really had access and could you give me access.
+
+I really wanted to contribute to the otcv8 developers and had plans to create my own server... but after I paid the person just downloaded the repository, sent it to me and disappeared.
+
+I'm making it available because I didn't get what I paid for, I know I already had several versions leaked before but I wanted, in addition to having access to v8, to contribute to the community... but instead I took a hit... I don't know who the person is who gave me the blow, based on information from friends, the only thing I found out is that the person is a lawyer in Brazil and has an rpg project, but I don't know the name.
+
+I paid for cryptocurrency so I know this cannot be reversed, so here's my outrage and frustration.
+
+# DOWNLOAD NOW FOR FREE:
+- **ZIP compressed version:** https://mega.nz/file/CERXVIya#xyl7WzoYvjdsNRZQxZZGOwN9n7sopwIWYcqkVgjaKTY
+- **Version with free files:**  https://mega.nz/folder/vVRyVQ7I#uTnoJf9OYQLLojl65RZeJQ
+
 # OTClientV8 - 2022 full version free download
 
 OTClientV8 is highly optimized, cross-platform tile based 2d game engine built with c++17, lua, physfs, OpenGL ES 2.0 and OpenAL. It has been created as alternative client for game called Tibia, but now it's much more functional and powerful. It works well even on 12 years old computers. In April 2021 it reached 290k unique installations, including 80k android installations.
